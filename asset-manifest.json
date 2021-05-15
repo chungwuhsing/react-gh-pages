@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chungwuhsing/react-gh-pages.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/chungwuhsing/react-gh-pages.git/static/js/main.78c25d29.chunk.js",
+    "main.js.map": "/chungwuhsing/react-gh-pages.git/static/js/main.78c25d29.chunk.js.map",
+    "runtime-main.js": "/chungwuhsing/react-gh-pages.git/static/js/runtime-main.a5a4d46d.js",
+    "runtime-main.js.map": "/chungwuhsing/react-gh-pages.git/static/js/runtime-main.a5a4d46d.js.map",
+    "static/js/2.dbea3b6e.chunk.js": "/chungwuhsing/react-gh-pages.git/static/js/2.dbea3b6e.chunk.js",
+    "static/js/2.dbea3b6e.chunk.js.map": "/chungwuhsing/react-gh-pages.git/static/js/2.dbea3b6e.chunk.js.map",
+    "static/js/3.8f4aba9b.chunk.js": "/chungwuhsing/react-gh-pages.git/static/js/3.8f4aba9b.chunk.js",
+    "static/js/3.8f4aba9b.chunk.js.map": "/chungwuhsing/react-gh-pages.git/static/js/3.8f4aba9b.chunk.js.map",
+    "index.html": "/chungwuhsing/react-gh-pages.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/chungwuhsing/react-gh-pages.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbea3b6e.chunk.js.LICENSE.txt": "/chungwuhsing/react-gh-pages.git/static/js/2.dbea3b6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chungwuhsing/react-gh-pages.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a4d46d.js",
+    "static/js/2.dbea3b6e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.78c25d29.chunk.js"
+  ]
+}
